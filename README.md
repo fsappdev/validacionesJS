@@ -1,2 +1,2 @@
 #installation
-npm install ddb-npm-validaciones
+npm install ddb-validaciones
